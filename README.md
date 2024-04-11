@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nuxt js,**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sivagnanams-projects.vercel.app/](https://portfolio-sivagnanams-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-sivagnanams-projects.vercel.app/)
 
 - 💬 Ask me about **React js, Next js, Redux, Javascript**
 
